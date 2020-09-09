@@ -1,6 +1,6 @@
 # Clustering Crypto
 
-![Crypto](images/Crypto.jpeg)
+![Crypto](images/Crypto.jpg)
 
 ## Objective: 
 Unsupervised learning project using Amazon SageMaker to present a report of what cryptocurrencies are on the trading market and how cryptocurrencies could be grouped towards creating a classification for developing a new investment product.
